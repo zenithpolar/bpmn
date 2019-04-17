@@ -1,5 +1,5 @@
 {
-  "name": "bpmn2",
+  "name": "bpmn-core",
   "version": "0.2.3",
   "description": "BPMN 2.0 execution engine",
   "main": "./lib/public.js",
